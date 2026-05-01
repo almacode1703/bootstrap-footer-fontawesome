@@ -23,6 +23,7 @@
 
 /* Keep spacing like the screenshot */
 .row.pt-5{
+  display: flex; 
   gap: 18px;
 }
 
